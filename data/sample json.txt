@@ -1,0 +1,90 @@
+/*** register ***/
+register url >> /api/register
+{
+    "first_name": "a",
+    "last_name": "b",
+    "email": "a@a.com",
+    "password":"a",
+    "password_confirm": "a"
+}
+
+-----------------------------------------------------------
+
+/*** register response ***/
+{
+    "id": 4,
+    "first_name": "a",
+    "last_name": "b",
+    "email": "afg@a.com"
+}
+
+-----------------------------------------------------------
+
+/*** login ***/
+login url >> /api/login
+{
+    "email": "a@a.com",
+    "password":"a"
+}
+
+-----------------------------------------------------------
+
+/*** login response ***/
+{
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJleHAiOjE2NDk4NTA4MzksImlhdCI6MTY0OTg1MDgwOX0.IWy3N0ytZ3etABR4Jbsi16X39i3FWoyu6eIYg5skE8o"
+}
+
+-----------------------------------------------------------
+
+/*** user info with token ***/
+key:Authorization
+value=
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJleHAiOjE2NDk4NjM1MzMsImlhdCI6MTY0OTg2MzQ3M30.zo1p1XlhPEVL2PKZZxCc6KL_9s2z5x56TybLVDr1tcw
+
+-----------------------------------------------------------
+
+/*** logout ***/
+/api/logout
+
+-----------------------------------------------------------
+
+/*** refresh token ***/
+http://127.0.0.1:5005/api/refresh
+
+-----------------------------------------------------------
+
+/*** forgot password request ***/
+http://127.0.0.1:5005/api/forgot
+{
+    "email": "djarmanmata2@gmail.com"
+}
+
+-----------------------------------------------------------
+
+
+/*** reset password (after click reset link) ***/
+http://127.0.0.1:5005/api/reset
+{
+    "token": "lbdgqx9kux",
+    "password": "1234",
+    "password_confirm": "1234"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

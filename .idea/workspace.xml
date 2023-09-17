@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eaaa352-b565-4762-84c1-250527ce24dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="27hUjnySlYLHYY3PBqfo96XXiHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PRJ\Qsic\templates" />
+      <recent name="F:\PRJ\Qsic\core" />
+      <recent name="F:\PRJ\Qsic\core\migrations" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Qsic" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Qsic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Qsic.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eaaa352-b565-4762-84c1-250527ce24dc" name="Default Changelist" comment="" />
+      <created>1649771948722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649771948722</updated>
+      <workItem from="1649772147350" duration="544000" />
+      <workItem from="1649772740407" duration="927000" />
+      <workItem from="1649773810045" duration="297000" />
+      <workItem from="1649774122578" duration="814000" />
+      <workItem from="1649776055415" duration="1246000" />
+      <workItem from="1649779365807" duration="2704000" />
+      <workItem from="1649833728965" duration="1362000" />
+      <workItem from="1649840234081" duration="11513000" />
+      <workItem from="1649863315148" duration="8615000" />
+      <workItem from="1649914778686" duration="5483000" />
+      <workItem from="1649924914247" duration="5876000" />
+      <workItem from="1649947602999" duration="4360000" />
+      <workItem from="1649952431098" duration="4407000" />
+      <workItem from="1650001175966" duration="726000" />
+      <workItem from="1650087817323" duration="594000" />
+      <workItem from="1650134220340" duration="1221000" />
+      <workItem from="1650187859580" duration="5948000" />
+      <workItem from="1650269252702" duration="1797000" />
+      <workItem from="1650357548154" duration="12102000" />
+      <workItem from="1650437168167" duration="9535000" />
+      <workItem from="1650527336419" duration="17758000" />
+      <workItem from="1650560704243" duration="5320000" />
+      <workItem from="1650613364893" duration="26778000" />
+      <workItem from="1650702367838" duration="4200000" />
+      <workItem from="1650783022684" duration="4885000" />
+      <workItem from="1650868323312" duration="1188000" />
+      <workItem from="1651055307532" duration="594000" />
+      <workItem from="1651142716883" duration="2210000" />
+      <workItem from="1652532890877" duration="2419000" />
+      <workItem from="1652950346236" duration="1307000" />
+      <workItem from="1653132460733" duration="220000" />
+      <workItem from="1653280877066" duration="2481000" />
+      <workItem from="1653309436155" duration="193000" />
+      <workItem from="1653309642148" duration="2752000" />
+      <workItem from="1653375250165" duration="2914000" />
+      <workItem from="1653483810516" duration="1185000" />
+      <workItem from="1653987066808" duration="301000" />
+      <workItem from="1653987372701" duration="3079000" />
+      <workItem from="1654010540737" duration="753000" />
+      <workItem from="1654093928742" duration="2129000" />
+      <workItem from="1654190483572" duration="801000" />
+      <workItem from="1655366059828" duration="1046000" />
+      <workItem from="1656326140863" duration="27000" />
+      <workItem from="1656326703496" duration="10000" />
+      <workItem from="1656327815842" duration="598000" />
+      <workItem from="1656329889617" duration="623000" />
+      <workItem from="1662575950323" duration="677000" />
+      <workItem from="1663174138923" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

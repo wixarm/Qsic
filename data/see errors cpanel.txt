@@ -1,0 +1,6 @@
+Starting development server at http://core.qsic.ir:8080/
+Quit the server with CONTROL-C.
+[01/Jun/2022 14:35:46] "GET / HTTP/1.1" 400 143
+[01/Jun/2022 14:35:46] "GET /favicon.ico HTTP/1.1" 400 143
+[01/Jun/2022 14:35:48] "GET / HTTP/1.1" 400 143
+[01/Jun/2022 14:35:48] "GET /favicon.ico HTTP/1.1" 400 143

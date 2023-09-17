@@ -1,0 +1,19 @@
+GET>> 
+----------------------------------------------------
+Category List
+/api/categorylist
+----------------------------------------------------
+Artist List(All)
+/api/artistlist 
+----------------------------------------------------
+Artist By Category(cat id =1,2,3,...)
+api/artistbycat/<catid>
+----------------------------------------------------
+Album List(All)
+api/albumlist
+----------------------------------------------------
+sample Send new Exp Subscription
+{
+        "id": 8,
+        "exp_sub": "2034-06-14T15:23:52Z"
+}

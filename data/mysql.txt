@@ -1,0 +1,25 @@
+DATABASES = {
+
+  'default': {
+
+    'ENGINE': 'django.db.backends.mysql',
+
+    'NAME': 'qsicir_proj',
+
+    'USER': 'qsicir_proj',
+
+    'PASSWORD': 'elmA]v3VaHJ2',
+
+    'HOST': 'localhost',
+
+    'PORT': '3306',
+
+    'OPTIONS': {
+
+      'sql_mode': 'STRICT_ALL_TABLES',
+
+    },
+
+  }
+
+}
